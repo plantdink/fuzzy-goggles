@@ -1,0 +1,660 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleGearsetPage /> matches the snapshot 1`] = `
+<div>
+  <div
+    class="SingleArmourPiece__SingleGearItemStyle-sc-1lh23le-0 iZNXSJ"
+  >
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h1
+        class="single-gear-item__heading"
+      >
+        Punch Drunk
+      </h1>
+    </div>
+    <img
+      alt="Chest icon"
+      class="single-gear-item__icon-image"
+      data-testid="itemIcon"
+      src="FakeArmourPiece.jpg"
+    />
+    <div>
+      <p
+        data-testid="itemPiece"
+      >
+        Mask
+      </p>
+      <p
+        data-testid="itemNotes"
+      >
+        This mask has been manufactured by Douglas & Harding and comes with Weapon Damage as the primary Core attribute. It has one fixed minor attribute - 20% Headshot Damage - and one random minor attribute which can be any of the stats listed below. It also has one gear mod slot.
+      </p>
+    </div>
+    <div
+      class="single-gear-item__content"
+      data-testid="singleArmourPiece"
+    >
+      <div
+        class="single-gear-item__details"
+      >
+        <table
+          data-testid="singleYellowArmourPiece"
+        >
+          <thead>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <th
+                class="single-gear-item__subheading"
+              >
+                Level 40 Stats
+              </th>
+            </tr>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <th
+                class="single-gear-item__subheading"
+              >
+                Core Attributes
+              </th>
+            </tr>
+            <tr>
+              <td />
+              <td>
+                Max Value
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemCoreOneType"
+            >
+              <td>
+                Weapon Damage
+              </td>
+              <td>
+                +
+                 
+                15
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__h3subheading"
+              >
+                Offensive Minor Attributes
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemOffAttrOneMax40Value"
+            >
+              <td>
+                Critical Hit Chance
+              </td>
+              <td>
+                +
+                 
+                6
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrTwoMax40Value"
+            >
+              <td>
+                Critical Hit Damage
+              </td>
+              <td>
+                +
+                 
+                12
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrThreeMax40Value"
+            >
+              <td>
+                Headshot Damage
+              </td>
+              <td>
+                +
+                 
+                20
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrFourMax40Value"
+            >
+              <td>
+                Weapon Handling
+              </td>
+              <td>
+                +
+                 
+                8
+                 
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__h3subheading"
+              >
+                Defensive Minor Attributes
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemDefAttrOneMax40Value"
+            >
+              <td>
+                Armour Regeneration
+              </td>
+              <td>
+                +
+                 
+                4,925
+                 
+                per second
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrTwoMax40Value"
+            >
+              <td>
+                Explosive Resistance
+              </td>
+              <td>
+                +
+                 
+                10
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrThreeMax40Value"
+            >
+              <td>
+                Hazard Protection
+              </td>
+              <td>
+                +
+                 
+                10
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrFourMax40Value"
+            >
+              <td>
+                Health
+              </td>
+              <td>
+                +
+                 
+                18,935
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <td
+                class="single-gear-item__h3subheading"
+              >
+                Utility Minor Attributes
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemUtilAttrOneMax40Value"
+            >
+              <td>
+                Skill Damage
+              </td>
+              <td>
+                +
+                 
+                10
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrTwoMax40Value"
+            >
+              <td>
+                Skill Haste
+              </td>
+              <td>
+                +
+                 
+                12
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrThreeMax40Value"
+            >
+              <td>
+                Skill Repair
+              </td>
+              <td>
+                +
+                 
+                20
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrFourMax40Value"
+            >
+              <td>
+                Status Effects
+              </td>
+              <td>
+                +
+                 
+                10
+                 
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="single-gear-item__details"
+      >
+        <table
+          data-testid="singleYellowArmourPieceWT5"
+        >
+          <thead>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <th
+                class="single-gear-item__subheading"
+              >
+                World Tier 5 Stats
+              </th>
+            </tr>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <th
+                class="single-gear-item__subheading"
+              >
+                Core Attributes
+              </th>
+            </tr>
+            <tr>
+              <td />
+              <td>
+                Max Value
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemCoreOneTypeWT5"
+            >
+              <td>
+                Weapon Damage
+              </td>
+              <td>
+                +
+                 
+                9.9
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__h3subheading"
+              >
+                Offensive Minor Attributes
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemOffAttrOneMaxWT5Value"
+            >
+              <td>
+                Critical Hit Chance
+              </td>
+              <td>
+                +
+                 
+                5.1
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrTwoMaxWT5Value"
+            >
+              <td>
+                Critical Hit Damage
+              </td>
+              <td>
+                +
+                 
+                7.9
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrThreeMaxWT5Value"
+            >
+              <td>
+                Headshot Damage
+              </td>
+              <td>
+                +
+                 
+                6.9
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemOffAttrFourMaxWT5Value"
+            >
+              <td>
+                Weapon Handling
+              </td>
+              <td>
+                +
+                 
+                7
+                 
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__h3subheading"
+              >
+                Defensive Minor Attributes
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemDefAttrOneMaxWT5Value"
+            >
+              <td>
+                Armour Regeneration
+              </td>
+              <td>
+                +
+                 
+                1,223
+                 
+                per second
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrTwoMaxWT5Value"
+            >
+              <td>
+                Explosive Resistance
+              </td>
+              <td>
+                +
+                 
+                6.6
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrThreeMaxWT5Value"
+            >
+              <td>
+                Hazard Protection
+              </td>
+              <td>
+                +
+                 
+                6.6
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemDefAttrFourMaxWT5Value"
+            >
+              <td>
+                Health
+              </td>
+              <td>
+                +
+                 
+                4,695
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <td
+                class="single-gear-item__h3subheading"
+              >
+                Utility Minor Attributes
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              data-testid="itemUtilAttrOneMaxWT5Value"
+            >
+              <td>
+                Skill Damage
+              </td>
+              <td>
+                +
+                 
+                6.9
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrTwoMaxWT5Value"
+            >
+              <td>
+                Skill Haste
+              </td>
+              <td>
+                +
+                 
+                7.9
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrThreeMaxWT5Value"
+            >
+              <td>
+                Skill Repair
+              </td>
+              <td>
+                +
+                 
+                12.1
+                 
+                %
+              </td>
+            </tr>
+            <tr
+              data-testid="itemUtilAttrFourMaxWT5Value"
+            >
+              <td>
+                Status Effects
+              </td>
+              <td>
+                +
+                 
+                6.6
+                 
+                %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h3
+        class="single-gear-item__h3subheading"
+      >
+        Number of Mod Slots
+      </h3>
+    </div>
+    <ul>
+      <li>
+        1
+      </li>
+    </ul>
+    <div
+      class="single-gear-item__sub-content"
+      data-testid="uniqueAttributeTest"
+    >
+      <div
+        class="single-gear-item__details"
+      >
+        <div
+          class="single-gear-item__title-bar"
+        >
+          <h3
+            class="single-gear-item__h3subheading"
+          >
+            Item Unique Feature
+          </h3>
+        </div>
+        <ul>
+          <li>
+            20% Headshot Damage
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h2
+        class="single-gear-item__subheading"
+      >
+        Item Unique Talent
+      </h2>
+    </div>
+    <div
+      class="single-gear-item__details"
+    >
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/talents/armourTalent/%20rdvuty23684"
+          >
+            Perfect Intimidate
+          </a>
+        </h3>
+        <img
+          class="standard-item"
+          src="FakeArmourTalentImage.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h2
+        class="single-gear-item__subheading"
+      >
+        Item Brand
+      </h2>
+    </div>
+    <div
+      class="single-gear-item__details"
+    >
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/gear/brand/nlkbhblhb"
+          >
+            Golan Gear Ltd
+          </a>
+        </h3>
+        <img
+          alt="Golan Gear Ltd"
+          class="standard-item"
+          src="FakeBrandImage.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

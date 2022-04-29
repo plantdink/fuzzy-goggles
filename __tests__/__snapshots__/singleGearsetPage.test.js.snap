@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleGearsetPage /> matches the snapshot 1`] = `
+<div>
+  <div
+    class="SingleArmourPiece__SingleGearItemStyle-sc-1lh23le-0 iZNXSJ"
+  >
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h1
+        class="single-gear-item__heading"
+      >
+        Fake Protocol
+      </h1>
+    </div>
+    <div
+      class="single-gear-item__content"
+      data-testid="testGearset"
+    >
+      <div
+        class="single-item__details"
+      >
+        <p>
+          A Gear Set is a unique combination of equipment pieces that an Agent can obtain.
+        </p>
+        <p>
+           Each Gear Set revolves around a specific operational capability and can strongly influence an agents overall approach to any situation they might face.
+        </p>
+        <p>
+           Unlike a Brand set, the Chest and Backpack from a Gear Set do not have a specific Talent associated with them.
+        </p>
+        <p>
+           Once a certain number of pieces of the same Gear Set are equipped, an agent will obtain various Set bonuses with all the bonuses available when four pieces are equipped.
+        </p>
+        <p>
+           An agent must equip the Chest piece and Backpack in order to access the bonuses associated with each of these items.
+        </p>
+        <table>
+          <thead>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <td
+                class="single-gear-item__subheading"
+              >
+                Core Attribute Type - 
+                Weapon Damage
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th
+                scope="row"
+              >
+                Level 40
+              </th>
+              <td>
+                + 
+                15% Weapon damage
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                World Tier 5
+              </th>
+              <td>
+                + 
+                9.9% Weapon Damage
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <td
+                class="single-gear-item__subheading"
+              >
+                Gear Set Bonuses
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Whilst wearing:
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                1 Piece
+              </th>
+              <td>
+                + 15% Marksman Rifle Damage
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                2 Piece
+              </th>
+              <td>
+                + 30% Headshot Damage
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                3 Piece
+              </th>
+              <td>
+                Dead Man's Hand
+                : 
+                Flip a card when landing shots with a Marksman Rifle. After 5 cards are flipped, the damage of your next shot is amplified by 30%. More shots are enhanced, the better the hand revealed. Four of a Kind: 4 shots. Full House: 3 shots. Aces and Eights: 2 shots. Flip an additional card on headshots.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead>
+            <tr
+              class="single-gear-item__title-bar"
+            >
+              <td
+                class="single-gear-item__subheading"
+              >
+                Gear Set Talents
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Whilst wearing:
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                Chest
+              </th>
+              <td>
+                No Limit
+                : 
+                Increases Dead Man's Hand damage bonus from 30% to 50%.
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                Backpack
+              </th>
+              <td>
+                Ace in the Sleeve
+                : 
+                Amplifies 1 extra shot when revealing your hand.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="item-image"
+        data-testid="testGearsetImage"
+      >
+        <img
+          alt="Eclipse Protocol gearset icon"
+          class="standard-item"
+          id="gearset-page__image"
+          src="FakeGearsetImage.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

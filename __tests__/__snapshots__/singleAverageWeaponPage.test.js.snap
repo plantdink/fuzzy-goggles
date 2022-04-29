@@ -1,0 +1,374 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleAverageWeaponPage /> loads the data and renders all components with data correctly for a single average weapon page 1`] = `
+<div>
+  <div
+    class="SingleWeapon__SingleWeaponStyles-sc-1l6wyg4-0 iQbJbJ"
+    data-testid="singleAverageWeaponPageTest"
+  >
+    <div
+      class="single-weapon__title-bar"
+    >
+      <h1
+        class="single-weapon__heading"
+      >
+        ASSAULT RIFLE
+      </h1>
+    </div>
+    <div
+      class="single-weapon__details"
+    >
+      <div
+        class="single-weapon__title-bar"
+      >
+        <h3
+          class="single-weapon__subheading"
+        >
+          Stats Visualisation
+        </h3>
+      </div>
+    </div>
+    <div
+      class="single-weapon__title-bar"
+    >
+      <h3
+        class="single-weapon__section-heading"
+      >
+        Weapon Stats
+      </h3>
+    </div>
+    <div
+      class="single-weapon__sub-content"
+    >
+      <div
+        class="single-weapon__content"
+      >
+        <div
+          class="single-weapon__details"
+        >
+          <table>
+            <thead
+              class="single-weapon__title-bar"
+            >
+              <tr>
+                <td
+                  class="single-weapon__subheading"
+                >
+                  Base Damage
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Level 40
+                </th>
+                <td>
+                  54,403
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  World Tier 5
+                </th>
+                <td>
+                  8,990
+                </td>
+              </tr>
+            </tbody>
+            <thead
+              class="single-weapon__title-bar"
+            >
+              <tr>
+                <td
+                  class="single-weapon__subheading"
+                >
+                  Specifications
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Headshot Multiplier
+                </th>
+                <td>
+                  x 
+                  1.55
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Rate of Fire
+                </th>
+                <td>
+                  730
+                   rounds per minute
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Magazine
+                </th>
+                <td>
+                  30
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Mod Slots
+                </th>
+                <td>
+                  3
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Accuracy
+                </th>
+                <td>
+                  42.2
+                   %
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Stability
+                </th>
+                <td>
+                  59.4
+                   %
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Optimal Range
+                </th>
+                <td>
+                  31
+                   m
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Max Range
+                </th>
+                <td>
+                  69
+                   m
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Reload Speed
+                </th>
+                <td>
+                  2.01
+                   seconds
+                </td>
+              </tr>
+              <tr>
+                <th
+                  scope="row"
+                >
+                  Reload Speed (empty magazine)
+                </th>
+                <td>
+                  3.37
+                   seconds
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div
+        class="single-weapon__details"
+        data-testid="thirdAttributeTest"
+      >
+        <div
+          class="single-weapon__title-bar"
+        >
+          <h3
+            class="single-weapon__subheading"
+          >
+            Class Compatible Attributes
+          </h3>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th
+                scope="col"
+              />
+              <th
+                scope="col"
+              >
+                Level 40
+              </th>
+              <th
+                scope="col"
+              >
+                World Tier 5
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th
+                scope="row"
+              >
+                Accuracy
+              </th>
+              <td>
+                12
+                 %
+              </td>
+              <td>
+                7.9
+                 %
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                Critical Hit Chance
+              </th>
+              <td>
+                9.5
+                 %
+              </td>
+              <td>
+                6.5
+                 %
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                Critical Hit Damage
+              </th>
+              <td>
+                10
+                 %
+              </td>
+              <td>
+                7
+                 %
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div
+      class="single-weapon__details"
+      data-testid="testARNotes"
+    >
+      <div
+        class="single-weapon__title-bar"
+      >
+        <h2
+          class="single-weapon__section-heading"
+        >
+          Class Description
+        </h2>
+      </div>
+      <p>
+        An assault rifle is a short, compact, selective-fire weapon that fires a cartridge (typically either 5.56mm or 7.62mm) that has more power than a pistol or submachine gun but less power than a standard rifle or battle rifle. An assault rifle is designed for medium to long range engagements however it will perform well in CQB depending on the agents skill.
+      </p>
+      <p>
+        Assault rifles are either a standard configuration with the magazine located in front of the pistol grip, or a "bullpup" with the magazine located behind the pistol grip of the weapon. Assault rifles can also be fitted with a range of attachments including extended magazines, sights, fore-grips and muzzle attachments, like a suppressor.
+      </p>
+    </div>
+    <div
+      class="single-weapon__details"
+    >
+      <div
+        class="single-weapon__title-bar"
+      >
+        <h1
+          class="single-weapon__section-heading"
+        >
+          Compatible Weapon Talents
+        </h1>
+      </div>
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/talents/weaponTalent/mijqioj898"
+          >
+            Fake Talent 1
+          </a>
+        </h3>
+        <img
+          class="standard-item"
+          src="FakeTalent.png"
+        />
+      </div>
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/talents/weaponTalent/bilwubcoiuqhb75"
+          >
+            Fake Talent 2
+          </a>
+        </h3>
+        <img
+          class="standard-item"
+          src="FakeTalent2.png"
+        />
+      </div>
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/talents/weaponTalent/mijmncOICB6"
+          >
+            Fake Talent 3
+          </a>
+        </h3>
+        <img
+          class="standard-item"
+          src="FakeTalent3.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

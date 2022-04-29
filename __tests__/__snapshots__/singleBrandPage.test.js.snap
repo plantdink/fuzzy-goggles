@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleBrandPage /> matches the snapshot 1`] = `
+<div>
+  <div
+    class="SingleArmourPiece__SingleGearItemStyle-sc-1lh23le-0 iZNXSJ"
+  >
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h1
+        class="single-gear-item__heading"
+      >
+        Maxx Tactical Tactical
+      </h1>
+    </div>
+    <div
+      class="single-gear-item__content"
+      data-testid="testBrand"
+    >
+      <div
+        class="single-gear-item__details"
+      >
+        <p>
+          Strategic Homeland Division has approved multiple Brand manufacturers to supply equipment for SHD agents.
+        </p>
+        <p>
+           There are also numerous non-approved Brands that an agent may find during the conduct of operations and agents are authorised to use any equipment they need in order to complete their mission.
+        </p>
+        <p>
+           Each Brand provides different benefits to an agent and their ability to conduct operations.
+        </p>
+        <p>
+           Equipping items from the same brand will unlock different benefits, with 3 equipped providing the maximum Brand-specific benefit.
+        </p>
+        <p>
+           Agents are encouraged to mix and match Brands to provide the best benefit to their preferred operational style.
+        </p>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__subheading"
+              >
+                Core Attribute Type - 
+                Armour
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th
+                scope="row"
+              >
+                Level 40
+              </th>
+              <td>
+                + 
+                170,000 Armour
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                World Tier 5
+              </th>
+              <td>
+                + 
+                42,458 Armour
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead
+            class="single-gear-item__title-bar"
+          >
+            <tr>
+              <th
+                class="single-gear-item__subheading"
+              >
+                Set Bonuses
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                Whilst wearing:
+              </td>
+            </tr>
+            <tr>
+              <th
+                class="single-gear-item__sub-subheading"
+                scope="row"
+              >
+                1 Piece
+              </th>
+              <td>
+                10% Health
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                2 Piece
+              </th>
+              <td>
+                20% Extra Incoming Healing
+              </td>
+            </tr>
+            <tr>
+              <th
+                scope="row"
+              >
+                3 Piece
+              </th>
+              <td>
+                10% Hazard Protection
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="item-image"
+        data-testid="testImage"
+      >
+        <img
+          alt="Fake Brand image alt text"
+          class="standard-item"
+          id="brand-page__image"
+          src="FakeNamedBrand.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="single-gear-item__title-bar"
+    >
+      <h2
+        class="single-gear-item__subheading"
+      >
+        Brand Unique Equipment
+      </h2>
+    </div>
+    <div
+      class="single-gear-item__details"
+    >
+      <div
+        class="LinkSmallBrand__LinkStyles-sc-1sivfgj-0 ljFRYs"
+      >
+        <h3
+          class="LinkSmallBrand__TitleLink-sc-1sivfgj-1 gKRdRa"
+        >
+          <a
+            href="/gear/armourType/cresdhjvjytfj"
+          >
+            Deathgrips
+          </a>
+        </h3>
+        <img
+          class="standard-item"
+          src="FakeNamedItemImage01.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
