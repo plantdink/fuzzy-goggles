@@ -81,7 +81,6 @@ So from someone you have never met, many thanks.
 
 - Azurmen32
 - Bend3n
-- Bend3n
 - Eph
 - GingerBeard_x
 - Saint Landwalker
@@ -90,7 +89,7 @@ So from someone you have never met, many thanks.
 - u/bitlilin
 - AA_Brian
 - SaulGood23
-- BobtailedMoss3 #3497
+- BobtailedMoss3
 
 ### [Division 2 Build Tool](https://github.com/mxswat/mx-division-builds)
 

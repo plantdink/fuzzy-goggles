@@ -1,19 +1,14 @@
+import Link from 'next/link';
 import styled from 'styled-components';
-
-//  Support Links
-const websiteFaults = 'https://github.com/plantdink/planning-whale/issues';
-const contactMe = '';
-const githubRepo = 'https://github.com/plantdink/planning-whale';
-
-//  Community Site Links
-const div2Builds = 'https://mxswat.github.io/mx-division-builds/#/';
-const weeklyVendorReset =
-  'http://rubenalamina.mx/the-division-weekly-vendor-reset/';
-const subReddit = 'https://www.reddit.com/r/thedivision/';
-
-//  Admin Links
-// TODO: Change backend link after deployment
-const backend = '/';
+import {
+  websiteFaults,
+  contactMe,
+  githubRepo,
+  div2Builds,
+  weeklyVendorReset,
+  subReddit,
+  backend,
+} from '../ExternalLinks';
 
 const FooterStyles = styled.footer`
   font-size: 1.5rem;
@@ -90,6 +85,13 @@ export default function Footer() {
             <li>
               <a href={subReddit}>Division 2 SubReddit</a>
             </li>
+          </ul>
+        </div>
+
+        <div className="footer-content__child">
+          <h4>Acknowledgements</h4>
+          <ul>
+            <Link href="/community/credits">Community Credits</Link>
           </ul>
         </div>
 
