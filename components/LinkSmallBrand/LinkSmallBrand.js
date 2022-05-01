@@ -36,7 +36,6 @@ export const TitleLink = styled.h3`
   align-self: center;
   margin: 0 1rem;
   transform: skew(7deg);
-  /* text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1); */
   a {
     background: white;
     border: 1px solid var(--orange);
