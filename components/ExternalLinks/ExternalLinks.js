@@ -1,8 +1,8 @@
 //  Support Links
 export const websiteFaults =
-  'https://github.com/plantdink/planning-whale/issues';
+  'https://github.com/plantdink/fuzzy-goggles/issues';
 export const contactMe = '';
-export const githubRepo = 'https://github.com/plantdink/planning-whale';
+export const githubRepo = 'https://github.com/plantdink/fuzzy-goggles';
 
 //  Community Site Links
 export const div2Builds = 'https://mxswat.github.io/mx-division-builds/#/';
@@ -19,4 +19,4 @@ export const theSpreadsheetTwo =
 
 //  Admin Links
 // TODO: Change backend link after backend deployment
-export const backend = '/';
+export const backend = 'https://afm-backend.herokuapp.com/';
