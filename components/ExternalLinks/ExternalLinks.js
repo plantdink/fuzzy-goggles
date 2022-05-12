@@ -19,4 +19,4 @@ export const theSpreadsheetTwo =
 
 //  Admin Links
 // TODO: Change backend link after backend deployment
-export const backend = 'https://afm-backend.herokuapp.com/';
+export const backend = '/';

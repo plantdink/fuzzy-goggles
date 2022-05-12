@@ -4,6 +4,9 @@ layout.md
 variables.env
 .keystone
 *.db
+Dockerfile
+.dockerignore
+docker-compose.yml
 
 # Logs
 logs

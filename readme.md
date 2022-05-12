@@ -1,5 +1,7 @@
 # Agent Field Manual
 
+Site now active - [Agent Field Manual](https://www.agent-field-manual.com/)
+
 Agent Field Manual is intended as a companion application for new agents in the world of Tom Clancy's The Division 2. It allows agents to quickly find and visualise different data about various game items.
 
 ![Preview image of a weapon stats page](https://res.cloudinary.com/dbm1h5w02/image/upload/c_scale,w_600/v1644552672/agent-field-manual/20220211-AgentFieldManualPreview_wxt0nl.png)
